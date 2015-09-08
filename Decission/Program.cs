@@ -32,7 +32,7 @@ namespace Decission
             //Console.WriteLine(message);
             //Console.ReadLine();
 
-            string message = (userValue == "1") ? "boat" : "strand of lint";
+            string message = (userValue == "1") ? "boat" : "air guitar!!!!";
             Console.WriteLine("You won a {0}", message);
             Console.ReadLine();
 
