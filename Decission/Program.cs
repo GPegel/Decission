@@ -34,6 +34,7 @@ namespace Decission
 
             string message = (userValue == "1") ? "boat" : "air guitar!!!!";
             Console.WriteLine("You won a {0}", message);
+            Console.WriteLine("Press Enter to close this screen");
             Console.ReadLine();
 
 
